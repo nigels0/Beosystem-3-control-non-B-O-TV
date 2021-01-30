@@ -88,3 +88,9 @@ When it detects whichever one of those it receives, it sends the corresponding C
 Power on: os.system(&#39;echo &quot;on 0&quot;| cec-client -s \&gt; null&#39;)
 
 Power off: os.system(&#39;echo &quot;standby 0&quot;| cec-client -s \&gt; null&#39;)
+
+Note that as this script needs to be constantly listening on the serial port, you need to start it as:
+
+python ser.py &
+
+and, better still set it up to run in the background at boot (don't forget the & at the end.
