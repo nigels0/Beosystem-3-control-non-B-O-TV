@@ -30,7 +30,7 @@ Hardware Requirements
 
 Note the serial cable needs some pins shorted – pins 7&amp;8. 
 
-I put the device into a hobby box so it would be tidy – there is, of course no need to do this. As an aside, you could short pins 7&amp;8 on this device rather than having to hack the serial cable.
+I put the serial device into a hobby box so it would be tidy – there is, of course no need to do this. As an aside, you could short pins 7&amp;8 on this device rather than having to hack the serial cable.
 
 
 Note you need the VCC connector to go to the 3v port on the raspberry – not the 5v as the GPIO pins of the raspberry only accept 3.3v – 5v could do some damage.
