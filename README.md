@@ -55,11 +55,11 @@ Set up the Raspberry Pi to use the serial ports.
 
 Choose:
 
-5. Interfacing options
+   5 Interfacing options
 
-P6 Serial
+   P6 Serial
 
-No to the login shell but yes to have the serial port hardware enabled.
+Now to the login shell but yes to have the serial port hardware enabled.
 
 Then get the library that the python script uses to communicate with the serial port
 
