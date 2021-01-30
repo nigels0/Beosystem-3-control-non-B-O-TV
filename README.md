@@ -28,15 +28,10 @@ They are also available on ebay.
 
 1. Serial cable to connect the Beosystem 3 to the serial connector and HDMI cable to connect the raspberry to the TV.
 
-Note the serial cable needs some pins shorted – pins 7&amp;8. See this diagram below:
-
-![](RackMultipart20210130-4-y1zg71_html_a47acb34329d5be1.jpg)
-
-I&#39;ve not needed to short pins 4&amp;6.
+Note the serial cable needs some pins shorted – pins 7&amp;8. 
 
 I put the device into a hobby box so it would be tidy – there is, of course no need to do this. As an aside, you could short pins 7&amp;8 on this device rather than having to hack the serial cable.
 
-![](RackMultipart20210130-4-y1zg71_html_f4d39c3f84d908a4.jpg)
 
 Note you need the VCC connector to go to the 3v port on the raspberry – not the 5v as the GPIO pins of the raspberry only accept 3.3v – 5v could do some damage.
 
