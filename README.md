@@ -93,4 +93,4 @@ Note that as this script needs to be constantly listening on the serial port, yo
 
 python ser.py &
 
-and, better still set it up to run in the background at boot (don't forget the & at the end)
+and, better still set it up to run in the background at boot.
