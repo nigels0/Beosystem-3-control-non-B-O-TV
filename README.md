@@ -59,7 +59,7 @@ Choose:
 
    P6 Serial
 
-Now to the login shell but yes to have the serial port hardware enabled.
+   No to the login shell but yes to have the serial port hardware enabled.
 
 Then get the library that the python script uses to communicate with the serial port
 
