@@ -20,13 +20,13 @@ Hardware Requirements
 1. Raspberry Pi – most generations would be OK. You just need GPIO ports to connect a serial port connector to.
 2. RS232 to TTL DB9 Serial Port connector – this has a 9-pin serial port and outputs the serial commands via wires that plug into the raspberry.
 
-An example is shown here
+   An example is shown here
 
-[https://www.kiwi-electronics.nl/rs232-naar-ttl-seriele-poort-converter-met-db9-connector?lang=en](https://www.kiwi-electronics.nl/rs232-naar-ttl-seriele-poort-converter-met-db9-connector?lang=en)
+   [https://www.kiwi-electronics.nl/rs232-naar-ttl-seriele-poort-converter-met-db9-connector?lang=en](https://www.kiwi-electronics.nl/rs232-naar-ttl-seriele-poort-converter-met-db9-connector?lang=en)
 
-They are also available on ebay.
+   They are also available on ebay.
 
-1. Serial cable to connect the Beosystem 3 to the serial connector and HDMI cable to connect the raspberry to the TV.
+3. Serial cable to connect the Beosystem 3 to the serial connector and HDMI cable to connect the raspberry to the TV.
 
 Note the serial cable needs some pins shorted – pins 7&amp;8. 
 
